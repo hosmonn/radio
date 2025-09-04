@@ -801,17 +801,17 @@ a {
 .cid-uVRa9ExS3o .mbr-section-subtitle {
   color: #232323;
 }
-.cid-uVS0e7RvVO {
+.cid-uVS4ODeXSt {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-uVS0e7RvVO #simp button,
-.cid-uVS0e7RvVO #simp input,
-.cid-uVS0e7RvVO #simp img {
+.cid-uVS4ODeXSt #simp button,
+.cid-uVS4ODeXSt #simp input,
+.cid-uVS4ODeXSt #simp img {
   border: 0;
 }
-.cid-uVS0e7RvVO #simp {
+.cid-uVS4ODeXSt #simp {
   max-width: 600px;
   font-size: 14px;
   font-family: "Segoe UI", Tahoma, sans-serif;
@@ -823,31 +823,31 @@ a {
   border-radius: 6px;
   overflow: hidden;
 }
-.cid-uVS0e7RvVO #simp .simp-album {
+.cid-uVS4ODeXSt #simp .simp-album {
   padding: 20px 25px 5px;
 }
-.cid-uVS0e7RvVO #simp .simp-album .simp-cover {
+.cid-uVS4ODeXSt #simp .simp-album .simp-cover {
   margin-right: 20px;
 }
-.cid-uVS0e7RvVO #simp .simp-album .simp-cover img {
+.cid-uVS4ODeXSt #simp .simp-album .simp-cover img {
   max-width: 80px;
   width: 100%;
   margin: 0;
   padding: 0;
   display: block;
 }
-.cid-uVS0e7RvVO #simp .simp-album .simp-title {
+.cid-uVS4ODeXSt #simp .simp-album .simp-title {
   font-size: 120%;
   font-weight: bold;
 }
-.cid-uVS0e7RvVO #simp .simp-album .simp-artist {
+.cid-uVS4ODeXSt #simp .simp-album .simp-artist {
   font-size: 90%;
   color: #6c7883;
 }
-.cid-uVS0e7RvVO #simp .simp-controls {
+.cid-uVS4ODeXSt #simp .simp-controls {
   padding: 15px;
 }
-.cid-uVS0e7RvVO #simp .simp-controls button {
+.cid-uVS4ODeXSt #simp .simp-controls button {
   font-size: 130%;
   width: 32px;
   height: 32px;
@@ -858,25 +858,25 @@ a {
   border: 0;
   border-radius: 3px;
 }
-.cid-uVS0e7RvVO #simp .simp-controls button[disabled] {
+.cid-uVS4ODeXSt #simp .simp-controls button[disabled] {
   color: #636469;
   cursor: initial;
 }
-.cid-uVS0e7RvVO #simp .simp-controls button:not([disabled]):hover {
+.cid-uVS4ODeXSt #simp .simp-controls button:not([disabled]):hover {
   background: #4082bc;
   color: #fff;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-prev,
-.cid-uVS0e7RvVO #simp .simp-controls .simp-next {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-prev,
+.cid-uVS4ODeXSt #simp .simp-controls .simp-next {
   font-size: 100%;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-tracker,
-.cid-uVS0e7RvVO #simp .simp-controls .simp-volume {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-tracker,
+.cid-uVS4ODeXSt #simp .simp-controls .simp-volume {
   flex: 1;
   margin-left: 10px;
   position: relative;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-buffer {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-buffer {
   position: absolute;
   top: 50%;
   right: 0;
@@ -885,7 +885,7 @@ a {
   margin-top: -2.5px;
   border-radius: 100px;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-loading .simp-buffer {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-loading .simp-buffer {
   -webkit-animation: audio-progress 1s linear infinite;
   animation: audio-progress 1s linear infinite;
   background-image: linear-gradient(-45deg, #000000 25%, transparent 25%, transparent 50%, #000000 50%, #000000 75%, transparent 75%, transparent);
@@ -893,27 +893,27 @@ a {
   background-size: 25px 25px;
   color: transparent;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-time,
-.cid-uVS0e7RvVO #simp .simp-controls .simp-others {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-time,
+.cid-uVS4ODeXSt #simp .simp-controls .simp-others {
   margin-left: 10px;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-volume {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-volume {
   max-width: 110px;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-volume .simp-mute {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-volume .simp-mute {
   margin-right: 5px;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-others .simp-active {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-others .simp-active {
   background: #242f3d;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-others .simp-shide button {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-others .simp-shide button {
   font-size: 100%;
   padding: 0;
   width: 24px;
   height: 14px;
   display: block;
 }
-.cid-uVS0e7RvVO #simp .simp-controls input[type=range] {
+.cid-uVS4ODeXSt #simp .simp-controls input[type=range] {
   -webkit-appearance: none;
   background: transparent;
   height: 19px;
@@ -923,33 +923,33 @@ a {
   position: relative;
   z-index: 2;
 }
-.cid-uVS0e7RvVO #simp .simp-controls input[type=range]::-webkit-slider-runnable-track {
+.cid-uVS4ODeXSt #simp .simp-controls input[type=range]::-webkit-slider-runnable-track {
   background: rgba(183, 197, 205, 0.66);
   height: 5px;
   border-radius: 2.5px;
   transition: box-shadow 0.3s ease;
   position: relative;
 }
-.cid-uVS0e7RvVO #simp .simp-controls input[type=range]::-moz-range-track {
+.cid-uVS4ODeXSt #simp .simp-controls input[type=range]::-moz-range-track {
   background: rgba(183, 197, 205, 0.66);
   height: 5px;
   border-radius: 2.5px;
   transition: box-shadow 0.3s ease;
   position: relative;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-load .simp-progress::-webkit-slider-runnable-track {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-load .simp-progress::-webkit-slider-runnable-track {
   background: #2f3841;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-load .simp-progress::-moz-range-track {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-load .simp-progress::-moz-range-track {
   background: #2f3841;
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-loading .simp-progress::-webkit-slider-runnable-track {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-loading .simp-progress::-webkit-slider-runnable-track {
   background: rgba(255, 255, 255, 0.25);
 }
-.cid-uVS0e7RvVO #simp .simp-controls .simp-loading .simp-progress::-moz-range-track {
+.cid-uVS4ODeXSt #simp .simp-controls .simp-loading .simp-progress::-moz-range-track {
   background: rgba(255, 255, 255, 0.25);
 }
-.cid-uVS0e7RvVO #simp .simp-controls input[type=range]::-webkit-slider-thumb {
+.cid-uVS4ODeXSt #simp .simp-controls input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
   background: #fff;
   height: 13px;
@@ -959,7 +959,7 @@ a {
   border-radius: 50%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(47, 52, 61, 0.2);
 }
-.cid-uVS0e7RvVO #simp .simp-controls input[type=range]::-moz-range-thumb {
+.cid-uVS4ODeXSt #simp .simp-controls input[type=range]::-moz-range-thumb {
   -webkit-appearance: none;
   background: #fff;
   height: 13px;
@@ -968,21 +968,21 @@ a {
   border-radius: 50%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(47, 52, 61, 0.2);
 }
-.cid-uVS0e7RvVO #simp .simp-footer {
+.cid-uVS4ODeXSt #simp .simp-footer {
   padding: 10px 10px 12px;
   font-size: 90%;
   text-align: center;
   opacity: .7;
 }
-.cid-uVS0e7RvVO #simp .simp-display {
+.cid-uVS4ODeXSt #simp .simp-display {
   overflow: hidden;
   max-height: 650px;
   transition: max-height 0.5s ease-in-out;
 }
-.cid-uVS0e7RvVO #simp .simp-hide {
+.cid-uVS4ODeXSt #simp .simp-hide {
   max-height: 0;
 }
-.cid-uVS0e7RvVO #simp ul {
+.cid-uVS4ODeXSt #simp ul {
   margin: 5px 0 0;
   padding: 0;
   list-style: none;
@@ -991,7 +991,7 @@ a {
   overflow-x: hidden;
   scrollbar-color: #73797f #2f3841;
 }
-.cid-uVS0e7RvVO #simp ul li {
+.cid-uVS4ODeXSt #simp ul li {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1000,32 +1000,32 @@ a {
   padding: 8px 20px;
   cursor: pointer;
 }
-.cid-uVS0e7RvVO #simp ul li:last-child {
+.cid-uVS4ODeXSt #simp ul li:last-child {
   padding-bottom: 13px;
 }
-.cid-uVS0e7RvVO #simp ul li:nth-child(odd) {
+.cid-uVS4ODeXSt #simp ul li:nth-child(odd) {
   background: #0e1621;
 }
-.cid-uVS0e7RvVO #simp ul li:hover {
+.cid-uVS4ODeXSt #simp ul li:hover {
   background: #242f3d;
 }
-.cid-uVS0e7RvVO #simp ul li.simp-active {
+.cid-uVS4ODeXSt #simp ul li.simp-active {
   background: #4082bc;
   color: #fff;
 }
-.cid-uVS0e7RvVO #simp ul li .simp-desc {
+.cid-uVS4ODeXSt #simp ul li .simp-desc {
   font-size: 90%;
   opacity: .5;
   margin-left: 5px;
 }
-.cid-uVS0e7RvVO #simp ul::-webkit-scrollbar-track {
+.cid-uVS4ODeXSt #simp ul::-webkit-scrollbar-track {
   background-color: #2f3841;
 }
-.cid-uVS0e7RvVO #simp ul::-webkit-scrollbar {
+.cid-uVS4ODeXSt #simp ul::-webkit-scrollbar {
   width: 6px;
   background-color: #2f3841;
 }
-.cid-uVS0e7RvVO #simp ul::-webkit-scrollbar-thumb {
+.cid-uVS4ODeXSt #simp ul::-webkit-scrollbar-thumb {
   background-color: #73797f;
 }
 .cid-uVRaEMOPH7 {
