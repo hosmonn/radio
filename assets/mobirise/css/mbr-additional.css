@@ -778,15 +778,15 @@ a {
     padding-right: 16px;
   }
 }
-.cid-uVR1dKSgRU {
+.cid-uVRa9ExS3o {
   padding-top: 2rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
-.cid-uVR1dKSgRU .mbr-fallback-image.disabled {
+.cid-uVRa9ExS3o .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uVR1dKSgRU .mbr-fallback-image {
+.cid-uVRa9ExS3o .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -795,6 +795,260 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uVR1dKSgRU .row {
-  flex-direction: row-reverse;
+.cid-UKHd65BUyS {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-UKHd65BUyS #simp button,
+.cid-UKHd65BUyS #simp input,
+.cid-UKHd65BUyS #simp img {
+  border: 0;
+}
+.cid-UKHd65BUyS #simp {
+  max-width: 600px;
+  font-size: 14px;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  text-align: initial;
+  line-height: initial;
+  background: #17212b;
+  color: #ddd;
+  margin: 0 auto;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.cid-UKHd65BUyS #simp .simp-album {
+  padding: 20px 25px 5px;
+}
+.cid-UKHd65BUyS #simp .simp-album .simp-cover {
+  margin-right: 20px;
+}
+.cid-UKHd65BUyS #simp .simp-album .simp-cover img {
+  max-width: 80px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+.cid-UKHd65BUyS #simp .simp-album .simp-title {
+  font-size: 120%;
+  font-weight: bold;
+}
+.cid-UKHd65BUyS #simp .simp-album .simp-artist {
+  font-size: 90%;
+  color: #6c7883;
+}
+.cid-UKHd65BUyS #simp .simp-controls {
+  padding: 15px;
+}
+.cid-UKHd65BUyS #simp .simp-controls button {
+  font-size: 130%;
+  width: 32px;
+  height: 32px;
+  background: none;
+  color: #ddd;
+  padding: 7px;
+  cursor: pointer;
+  border: 0;
+  border-radius: 3px;
+}
+.cid-UKHd65BUyS #simp .simp-controls button[disabled] {
+  color: #636469;
+  cursor: initial;
+}
+.cid-UKHd65BUyS #simp .simp-controls button:not([disabled]):hover {
+  background: #4082bc;
+  color: #fff;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-prev,
+.cid-UKHd65BUyS #simp .simp-controls .simp-next {
+  font-size: 100%;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-tracker,
+.cid-UKHd65BUyS #simp .simp-controls .simp-volume {
+  flex: 1;
+  margin-left: 10px;
+  position: relative;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-buffer {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  left: 0;
+  height: 5px;
+  margin-top: -2.5px;
+  border-radius: 100px;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-loading .simp-buffer {
+  -webkit-animation: audio-progress 1s linear infinite;
+  animation: audio-progress 1s linear infinite;
+  background-image: linear-gradient(-45deg, #000000 25%, transparent 25%, transparent 50%, #000000 50%, #000000 75%, transparent 75%, transparent);
+  background-repeat: repeat-x;
+  background-size: 25px 25px;
+  color: transparent;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-time,
+.cid-UKHd65BUyS #simp .simp-controls .simp-others {
+  margin-left: 10px;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-volume {
+  max-width: 110px;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-volume .simp-mute {
+  margin-right: 5px;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-others .simp-active {
+  background: #242f3d;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-others .simp-shide button {
+  font-size: 100%;
+  padding: 0;
+  width: 24px;
+  height: 14px;
+  display: block;
+}
+.cid-UKHd65BUyS #simp .simp-controls input[type=range] {
+  -webkit-appearance: none;
+  background: transparent;
+  height: 19px;
+  margin: 0;
+  width: 100%;
+  display: block;
+  position: relative;
+  z-index: 2;
+}
+.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-webkit-slider-runnable-track {
+  background: rgba(183, 197, 205, 0.66);
+  height: 5px;
+  border-radius: 2.5px;
+  transition: box-shadow 0.3s ease;
+  position: relative;
+}
+.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-moz-range-track {
+  background: rgba(183, 197, 205, 0.66);
+  height: 5px;
+  border-radius: 2.5px;
+  transition: box-shadow 0.3s ease;
+  position: relative;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-load .simp-progress::-webkit-slider-runnable-track {
+  background: #2f3841;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-load .simp-progress::-moz-range-track {
+  background: #2f3841;
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-loading .simp-progress::-webkit-slider-runnable-track {
+  background: rgba(255, 255, 255, 0.25);
+}
+.cid-UKHd65BUyS #simp .simp-controls .simp-loading .simp-progress::-moz-range-track {
+  background: rgba(255, 255, 255, 0.25);
+}
+.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  background: #fff;
+  height: 13px;
+  width: 13px;
+  margin-top: -4px;
+  cursor: pointer;
+  border-radius: 50%;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(47, 52, 61, 0.2);
+}
+.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-moz-range-thumb {
+  -webkit-appearance: none;
+  background: #fff;
+  height: 13px;
+  width: 13px;
+  cursor: pointer;
+  border-radius: 50%;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(47, 52, 61, 0.2);
+}
+.cid-UKHd65BUyS #simp .simp-footer {
+  padding: 10px 10px 12px;
+  font-size: 90%;
+  text-align: center;
+  opacity: .7;
+}
+.cid-UKHd65BUyS #simp .simp-display {
+  overflow: hidden;
+  max-height: 650px;
+  transition: max-height 0.5s ease-in-out;
+}
+.cid-UKHd65BUyS #simp .simp-hide {
+  max-height: 0;
+}
+.cid-UKHd65BUyS #simp ul {
+  margin: 5px 0 0;
+  padding: 0;
+  list-style: none;
+  max-height: 245px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-color: #73797f #2f3841;
+}
+.cid-UKHd65BUyS #simp ul li {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: block;
+  margin: 0;
+  padding: 8px 20px;
+  cursor: pointer;
+}
+.cid-UKHd65BUyS #simp ul li:last-child {
+  padding-bottom: 13px;
+}
+.cid-UKHd65BUyS #simp ul li:nth-child(odd) {
+  background: #0e1621;
+}
+.cid-UKHd65BUyS #simp ul li:hover {
+  background: #242f3d;
+}
+.cid-UKHd65BUyS #simp ul li.simp-active {
+  background: #4082bc;
+  color: #fff;
+}
+.cid-UKHd65BUyS #simp ul li .simp-desc {
+  font-size: 90%;
+  opacity: .5;
+  margin-left: 5px;
+}
+.cid-UKHd65BUyS #simp ul::-webkit-scrollbar-track {
+  background-color: #2f3841;
+}
+.cid-UKHd65BUyS #simp ul::-webkit-scrollbar {
+  width: 6px;
+  background-color: #2f3841;
+}
+.cid-UKHd65BUyS #simp ul::-webkit-scrollbar-thumb {
+  background-color: #73797f;
+}
+.cid-uVRaEMOPH7 {
+  padding-top: 2rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-uVRaEMOPH7 .mbr-overlay {
+  background-color: #ffffff;
+  opacity: 0.4;
+}
+.cid-uVRaEMOPH7 form .mbr-section-btn {
+  text-align: center;
+  width: 100%;
+}
+.cid-uVRaEMOPH7 form .mbr-section-btn .btn {
+  display: inline-flex;
+}
+@media (max-width: 991px) {
+  .cid-uVRaEMOPH7 form .mbr-section-btn .btn {
+    width: 100%;
+  }
+}
+.cid-uVRaEMOPH7 .content-head {
+  max-width: 800px;
+}
+.cid-uVRax1oszI {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2e481a;
+  overflow: hidden;
 }
