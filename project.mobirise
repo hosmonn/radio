@@ -47,8 +47,8 @@
         "url": "https://fonts.googleapis.com/css?family=Inter+Tight:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "favicon": false,
-    "mbrsiteDomain": "zewaxhzvzn",
+    "favicon": "@PROJECT_PATH@/assets/images/unknown.jpeg",
+    "mbrsiteDomain": "hrb166ghvd",
     "imageResize": false,
     "usedWebp": false,
     "robotsSwitcher": false,
