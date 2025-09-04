@@ -801,17 +801,17 @@ a {
 .cid-uVRa9ExS3o .mbr-section-subtitle {
   color: #232323;
 }
-.cid-UKHd65BUyS {
+.cid-uVRO7bfeKh {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-UKHd65BUyS #simp button,
-.cid-UKHd65BUyS #simp input,
-.cid-UKHd65BUyS #simp img {
+.cid-uVRO7bfeKh #simp button,
+.cid-uVRO7bfeKh #simp input,
+.cid-uVRO7bfeKh #simp img {
   border: 0;
 }
-.cid-UKHd65BUyS #simp {
+.cid-uVRO7bfeKh #simp {
   max-width: 600px;
   font-size: 14px;
   font-family: "Segoe UI", Tahoma, sans-serif;
@@ -823,31 +823,31 @@ a {
   border-radius: 6px;
   overflow: hidden;
 }
-.cid-UKHd65BUyS #simp .simp-album {
+.cid-uVRO7bfeKh #simp .simp-album {
   padding: 20px 25px 5px;
 }
-.cid-UKHd65BUyS #simp .simp-album .simp-cover {
+.cid-uVRO7bfeKh #simp .simp-album .simp-cover {
   margin-right: 20px;
 }
-.cid-UKHd65BUyS #simp .simp-album .simp-cover img {
+.cid-uVRO7bfeKh #simp .simp-album .simp-cover img {
   max-width: 80px;
   width: 100%;
   margin: 0;
   padding: 0;
   display: block;
 }
-.cid-UKHd65BUyS #simp .simp-album .simp-title {
+.cid-uVRO7bfeKh #simp .simp-album .simp-title {
   font-size: 120%;
   font-weight: bold;
 }
-.cid-UKHd65BUyS #simp .simp-album .simp-artist {
+.cid-uVRO7bfeKh #simp .simp-album .simp-artist {
   font-size: 90%;
   color: #6c7883;
 }
-.cid-UKHd65BUyS #simp .simp-controls {
+.cid-uVRO7bfeKh #simp .simp-controls {
   padding: 15px;
 }
-.cid-UKHd65BUyS #simp .simp-controls button {
+.cid-uVRO7bfeKh #simp .simp-controls button {
   font-size: 130%;
   width: 32px;
   height: 32px;
@@ -858,25 +858,25 @@ a {
   border: 0;
   border-radius: 3px;
 }
-.cid-UKHd65BUyS #simp .simp-controls button[disabled] {
+.cid-uVRO7bfeKh #simp .simp-controls button[disabled] {
   color: #636469;
   cursor: initial;
 }
-.cid-UKHd65BUyS #simp .simp-controls button:not([disabled]):hover {
+.cid-uVRO7bfeKh #simp .simp-controls button:not([disabled]):hover {
   background: #4082bc;
   color: #fff;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-prev,
-.cid-UKHd65BUyS #simp .simp-controls .simp-next {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-prev,
+.cid-uVRO7bfeKh #simp .simp-controls .simp-next {
   font-size: 100%;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-tracker,
-.cid-UKHd65BUyS #simp .simp-controls .simp-volume {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-tracker,
+.cid-uVRO7bfeKh #simp .simp-controls .simp-volume {
   flex: 1;
   margin-left: 10px;
   position: relative;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-buffer {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-buffer {
   position: absolute;
   top: 50%;
   right: 0;
@@ -885,7 +885,7 @@ a {
   margin-top: -2.5px;
   border-radius: 100px;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-loading .simp-buffer {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-loading .simp-buffer {
   -webkit-animation: audio-progress 1s linear infinite;
   animation: audio-progress 1s linear infinite;
   background-image: linear-gradient(-45deg, #000000 25%, transparent 25%, transparent 50%, #000000 50%, #000000 75%, transparent 75%, transparent);
@@ -893,27 +893,27 @@ a {
   background-size: 25px 25px;
   color: transparent;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-time,
-.cid-UKHd65BUyS #simp .simp-controls .simp-others {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-time,
+.cid-uVRO7bfeKh #simp .simp-controls .simp-others {
   margin-left: 10px;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-volume {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-volume {
   max-width: 110px;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-volume .simp-mute {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-volume .simp-mute {
   margin-right: 5px;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-others .simp-active {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-others .simp-active {
   background: #242f3d;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-others .simp-shide button {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-others .simp-shide button {
   font-size: 100%;
   padding: 0;
   width: 24px;
   height: 14px;
   display: block;
 }
-.cid-UKHd65BUyS #simp .simp-controls input[type=range] {
+.cid-uVRO7bfeKh #simp .simp-controls input[type=range] {
   -webkit-appearance: none;
   background: transparent;
   height: 19px;
@@ -923,33 +923,33 @@ a {
   position: relative;
   z-index: 2;
 }
-.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-webkit-slider-runnable-track {
+.cid-uVRO7bfeKh #simp .simp-controls input[type=range]::-webkit-slider-runnable-track {
   background: rgba(183, 197, 205, 0.66);
   height: 5px;
   border-radius: 2.5px;
   transition: box-shadow 0.3s ease;
   position: relative;
 }
-.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-moz-range-track {
+.cid-uVRO7bfeKh #simp .simp-controls input[type=range]::-moz-range-track {
   background: rgba(183, 197, 205, 0.66);
   height: 5px;
   border-radius: 2.5px;
   transition: box-shadow 0.3s ease;
   position: relative;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-load .simp-progress::-webkit-slider-runnable-track {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-load .simp-progress::-webkit-slider-runnable-track {
   background: #2f3841;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-load .simp-progress::-moz-range-track {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-load .simp-progress::-moz-range-track {
   background: #2f3841;
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-loading .simp-progress::-webkit-slider-runnable-track {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-loading .simp-progress::-webkit-slider-runnable-track {
   background: rgba(255, 255, 255, 0.25);
 }
-.cid-UKHd65BUyS #simp .simp-controls .simp-loading .simp-progress::-moz-range-track {
+.cid-uVRO7bfeKh #simp .simp-controls .simp-loading .simp-progress::-moz-range-track {
   background: rgba(255, 255, 255, 0.25);
 }
-.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-webkit-slider-thumb {
+.cid-uVRO7bfeKh #simp .simp-controls input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
   background: #fff;
   height: 13px;
@@ -959,7 +959,7 @@ a {
   border-radius: 50%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(47, 52, 61, 0.2);
 }
-.cid-UKHd65BUyS #simp .simp-controls input[type=range]::-moz-range-thumb {
+.cid-uVRO7bfeKh #simp .simp-controls input[type=range]::-moz-range-thumb {
   -webkit-appearance: none;
   background: #fff;
   height: 13px;
@@ -968,21 +968,21 @@ a {
   border-radius: 50%;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), 0 0 0 1px rgba(47, 52, 61, 0.2);
 }
-.cid-UKHd65BUyS #simp .simp-footer {
+.cid-uVRO7bfeKh #simp .simp-footer {
   padding: 10px 10px 12px;
   font-size: 90%;
   text-align: center;
   opacity: .7;
 }
-.cid-UKHd65BUyS #simp .simp-display {
+.cid-uVRO7bfeKh #simp .simp-display {
   overflow: hidden;
   max-height: 650px;
   transition: max-height 0.5s ease-in-out;
 }
-.cid-UKHd65BUyS #simp .simp-hide {
+.cid-uVRO7bfeKh #simp .simp-hide {
   max-height: 0;
 }
-.cid-UKHd65BUyS #simp ul {
+.cid-uVRO7bfeKh #simp ul {
   margin: 5px 0 0;
   padding: 0;
   list-style: none;
@@ -991,7 +991,7 @@ a {
   overflow-x: hidden;
   scrollbar-color: #73797f #2f3841;
 }
-.cid-UKHd65BUyS #simp ul li {
+.cid-uVRO7bfeKh #simp ul li {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1000,32 +1000,32 @@ a {
   padding: 8px 20px;
   cursor: pointer;
 }
-.cid-UKHd65BUyS #simp ul li:last-child {
+.cid-uVRO7bfeKh #simp ul li:last-child {
   padding-bottom: 13px;
 }
-.cid-UKHd65BUyS #simp ul li:nth-child(odd) {
+.cid-uVRO7bfeKh #simp ul li:nth-child(odd) {
   background: #0e1621;
 }
-.cid-UKHd65BUyS #simp ul li:hover {
+.cid-uVRO7bfeKh #simp ul li:hover {
   background: #242f3d;
 }
-.cid-UKHd65BUyS #simp ul li.simp-active {
+.cid-uVRO7bfeKh #simp ul li.simp-active {
   background: #4082bc;
   color: #fff;
 }
-.cid-UKHd65BUyS #simp ul li .simp-desc {
+.cid-uVRO7bfeKh #simp ul li .simp-desc {
   font-size: 90%;
   opacity: .5;
   margin-left: 5px;
 }
-.cid-UKHd65BUyS #simp ul::-webkit-scrollbar-track {
+.cid-uVRO7bfeKh #simp ul::-webkit-scrollbar-track {
   background-color: #2f3841;
 }
-.cid-UKHd65BUyS #simp ul::-webkit-scrollbar {
+.cid-uVRO7bfeKh #simp ul::-webkit-scrollbar {
   width: 6px;
   background-color: #2f3841;
 }
-.cid-UKHd65BUyS #simp ul::-webkit-scrollbar-thumb {
+.cid-uVRO7bfeKh #simp ul::-webkit-scrollbar-thumb {
   background-color: #73797f;
 }
 .cid-uVRaEMOPH7 {
