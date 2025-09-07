@@ -48,7 +48,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/unknown-128x129.png",
-    "mbrsiteDomain": "pl4knwolxl",
+    "mbrsiteDomain": "2vnimcim25",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -56,7 +56,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "witsec-white-label": false
+    "witsec-white-label": true
   },
   "pages": {
     "index.html": {
