@@ -1049,6 +1049,23 @@ a {
 .cid-uW8s6rHiIN .content-head {
   max-width: 800px;
 }
+.cid-uWcAmFn2WZ {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-color: #ffffff;
+}
+.cid-uWcAmFn2WZ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uWcAmFn2WZ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-uW8rYRUQjD {
   padding-top: 2rem;
   padding-bottom: 2rem;
