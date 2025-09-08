@@ -7,7 +7,7 @@
       "title": "StartM5",
       "titlePreset": "StartM5",
       "styling": {
-        "primaryColor": "#9c98cf",
+        "primaryColor": "#9b96e3",
         "secondaryColor": "#ffd7ef",
         "successColor": "#3a341c",
         "infoColor": "#320707",
@@ -32,7 +32,10 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#a09be8",
+        "#9b96e3"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "6.0.6",
@@ -98,7 +101,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#9c98cf"
+              "color": "#9b96e3"
             }
           },
           "_name": "article11",
