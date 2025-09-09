@@ -983,7 +983,7 @@ a {
   margin: 5px 0 0;
   padding: 0;
   list-style: none;
-  max-height: 245px;
+  max-height: 400px;
   overflow-y: auto;
   overflow-x: hidden;
   scrollbar-color: #73797f #2f3841;
