@@ -800,7 +800,7 @@ a {
 }
 .cid-uW8s3BIlcq {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-uW8s3BIlcq #simp button,
@@ -983,7 +983,7 @@ a {
   margin: 5px 0 0;
   padding: 0;
   list-style: none;
-  max-height: 400px;
+  max-height: 350px;
   overflow-y: auto;
   overflow-x: hidden;
   scrollbar-color: #73797f #2f3841;
